@@ -10,6 +10,7 @@ function App() {
     <>
       <div className="container">
         <h1>Welcome to the react</h1>
+        <h2>Hello</h2>
       </div>
     </>
   )
